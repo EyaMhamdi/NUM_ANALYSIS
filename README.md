@@ -5,4 +5,4 @@
 
 
 [TP1]: https://github.com/EyaMhamdi/NUM_ANALYSIS/blob/main/TP1.ipynb
-[TP2]: 
+[TP2]: https://github.com/EyaMhamdi/NUM_ANALYSIS/blob/main/TP2.ipynb
