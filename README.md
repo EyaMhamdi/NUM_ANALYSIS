@@ -6,3 +6,4 @@
 
 [TP1]: https://github.com/EyaMhamdi/NUM_ANALYSIS/blob/main/TP1.ipynb
 [TP2]: https://github.com/EyaMhamdi/NUM_ANALYSIS/blob/main/TP2.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EyaMhamdi/NUM_ANALYSIS/main)
